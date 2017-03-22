@@ -1,7 +1,7 @@
-    $ docker run -ti sheepsay "This is how you let the sheep say it..."
-     _________________________________________
-    < This is how you let the sheep say it... >
-     -----------------------------------------
+    $ docker run seccubus/sheepsay "Let you inner sheep speak..."
+     ______________________________
+    < Let you inner sheep speak... >
+     ------------------------------
       \
        \
            __
